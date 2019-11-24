@@ -141,7 +141,7 @@ instance.prototype.actions = function (system) {
 			]
 		},
 		'selectNextClip': {
-			label: 'Previous Clip',
+			label: 'Next Clip',
 			options: [ {
 				type: 'textinput',
 				label: 'Select video channel',
@@ -169,7 +169,7 @@ instance.prototype.action = function (action) {
 				break;
 
 			case 'stopClip':
-				cmd = 'StopClipCh' + opt.channel;
+				cmd = 'stopClipCh' + opt.channel;
 				break;
 
 			case 'pauseClip':
