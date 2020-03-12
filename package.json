@@ -1,5 +1,8 @@
 {
-	"name": "faith-chapels-video-playout",
+	"name": "faithchapel-videoplayoutserver",
+	"legacy": [
+		"faith-chapels-video-playout"
+	],
 	"version": "1.0.1",
 	"api_version": "1.0.0",
 	"keywords": [

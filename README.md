@@ -1,2 +1,2 @@
-# companion-module-faith-chapels-video-playout
+# companion-module-faithchapel-videoplayoutserver
 See HELP.md and LICENSE
